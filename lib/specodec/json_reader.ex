@@ -27,18 +27,21 @@ defmodule Specodec.JsonReader do
   end
 
   @impl true
-  def has_next_field?({s, pos, _stack, _fe} = st) do
-    {_, ch} = skip_ws(s, pos)
-    {ch != ?}, st}
+  def has_next_field?({s, pos, stack, fe} = st) do
+    {pos2, ch} = skip_ws(s, pos)
+    if ch == ?, do
+      {pos3, _} = skip_ws(s, pos2 + 1)
+      {true, {s, pos3, stack, fe}}
+    else
+      {ch != ?}, st}
+    end
   end
 
   @impl true
   def read_field_name({s, pos, [{:object, _} | _] = stack, fe}) do
-    {pos2, ch} = skip_ws(s, pos)
-    pos3 = if ch == ?,, do: elem(skip_ws(s, pos2 + 1), 0), else: pos2
-    {key, pos4} = parse_string(s, pos3)
-    {pos5, _} = skip_ws(s, pos4)
-    {key, {s, pos5 + 1, [{:object, 0} | tl(stack)], fe}}
+    {key, pos2} = parse_string(s, pos)
+    {pos3, _} = skip_ws(s, pos2)
+    {key, {s, pos3 + 1, [{:object, 0} | tl(stack)], fe}}
   end
 
   @impl true
@@ -54,9 +57,14 @@ defmodule Specodec.JsonReader do
   end
 
   @impl true
-  def has_next_element?({s, pos, _stack, _fe} = st) do
-    {_, ch} = skip_ws(s, pos)
-    {ch != ?], st}
+  def has_next_element?({s, pos, stack, fe} = st) do
+    {pos2, ch} = skip_ws(s, pos)
+    if ch == ?, do
+      {pos3, _} = skip_ws(s, pos2 + 1)
+      {true, {s, pos3, stack, fe}}
+    else
+      {ch != ?], st}
+    end
   end
 
   @impl true

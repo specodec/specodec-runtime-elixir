@@ -1,3 +1,0 @@
-json = {};
-json.color = "Green";
-json.priority = "High";

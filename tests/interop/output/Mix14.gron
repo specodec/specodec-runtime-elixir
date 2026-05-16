@@ -1,0 +1,7 @@
+json = {};
+json.amounts = [];
+json.amounts[0] = {};
+json.amounts[0].amount = "0";
+json.amounts[0].currency = "foo";
+json.total = "0";
+json.currency = "";

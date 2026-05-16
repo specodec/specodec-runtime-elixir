@@ -1,6 +1,0 @@
-json = {};
-json.shapes = [];
-json.shapes[0] = {};
-json.shapes[0].rect = {};
-json.shapes[0].rect.min = 0;
-json.shapes[0].rect.max = 2147483647;

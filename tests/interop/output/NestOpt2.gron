@@ -1,4 +1,0 @@
-json = {};
-json.a = {};
-json.a.id = "world";
-json.a.value = 2147483647;

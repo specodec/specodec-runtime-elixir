@@ -1,0 +1,12 @@
+json = {};
+json.a = [];
+json.a[0] = "world";
+json.a[1] = "test";
+json.a[2] = "[]";
+json.a[3] = "2147483647";
+json.a[4] = "-2147483648";
+json.a[5] = "-100000";
+json.a[6] = "[]";
+json.a[7] = "-0E0";
+json.b = [];
+json.c = [];

@@ -46,6 +46,7 @@ end
 # Compile runtime in order
 compile_order = [
   "lib/specodec/spec_reader.ex", "lib/specodec/spec_writer.ex",
+  "lib/specodec/parser.ex",
   "lib/specodec/tables_f32.ex", "lib/specodec/tables_f64.ex",
   "lib/specodec/ryu_math.ex", "lib/specodec/ryu_f32.ex", "lib/specodec/ryu_f64.ex",
   "lib/specodec/float_fmt.ex",
