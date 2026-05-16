@@ -1,0 +1,4 @@
+json = {};
+json.money = {};
+json.money.amount = "0";
+json.money.currency = "test";

@@ -1,0 +1,10 @@
+{
+  "name": "specodec-interop-elixir",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@specodec/typespec-emitter-core": "^1.0.3",
+    "@specodec/typespec-emitter-elixir": "^0.0.6",
+    "@typespec/compiler": "^1.12.0"
+  }
+}
