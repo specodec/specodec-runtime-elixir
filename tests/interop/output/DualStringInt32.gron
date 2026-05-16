@@ -1,3 +1,0 @@
-json = {};
-json.a = "world";
-json.b = 2147483647;

@@ -1,9 +1,0 @@
-json = {};
-json.names = [];
-json.names[0] = "world";
-json.names[1] = "test";
-json.names[2] = "[]";
-json.names[3] = "2147483647";
-json.names[4] = "-2147483648";
-json.names[5] = "-100000";
-json.scores = [];

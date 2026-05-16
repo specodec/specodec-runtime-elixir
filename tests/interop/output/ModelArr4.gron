@@ -1,6 +1,0 @@
-json = {};
-json.labels = [];
-json.labels[0] = {};
-json.labels[0].key = "world";
-json.labels[0].text = "test";
-json.count = 0;

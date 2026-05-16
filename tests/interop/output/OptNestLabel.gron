@@ -1,5 +1,0 @@
-json = {};
-json.label = "world";
-json.nested = {};
-json.nested.key = "world";
-json.nested.text = "test";

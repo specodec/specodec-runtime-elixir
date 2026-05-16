@@ -1,4 +1,0 @@
-json = {};
-json.items = [];
-json.items[0] = false;
-json.items[1] = true;

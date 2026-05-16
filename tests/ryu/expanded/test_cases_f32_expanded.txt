@@ -1,0 +1,1609 @@
+0.0  # 0E0
+1.0  # 1E0
+-1.0  # -1E0
+1.5  # 1.5E0
+2.0  # 2E0
+4.0  # 4E0
+8.0  # 8E0
+16.0  # 1.6E1
+32.0  # 3.2E1
+64.0  # 6.4E1
+128.0  # 1.28E2
+256.0  # 2.56E2
+512.0  # 5.12E2
+1024.0  # 1.024E3
+5.0  # 5E0
+25.0  # 2.5E1
+10.0  # 1E1
+100.0  # 1E2
+1000.0  # 1E3
+10000.0  # 1E4
+100000.0  # 1E5
+1000000.0  # 1E6
+10000000.0  # 1E7
+100000000.0  # 1E8
+0.1  # 1E-1
+0.01  # 1E-2
+0.001  # 1E-3
+0.0001  # 1E-4
+1e-05  # 1E-5
+1e-06  # 1E-6
+1e-07  # 1E-7
+1e-08  # 1E-8
+123456789.0  # 1.2345679E8
+-123456789.0  # -1.2345679E8
+1.234567  # 1.234567E0
+9.876543  # 9.876543E0
+1.2345678  # 1.2345678E0
+9.8765432  # 9.876543E0
+-1.234567  # -1.234567E0
+-9.876543  # -9.876543E0
+0.5  # 5E-1
+0.25  # 2.5E-1
+0.125  # 1.25E-1
+0.0625  # 6.25E-2
+0.03125  # 3.125E-2
+0.0078125  # 7.8125E-3
+0.00390625  # 3.90625E-3
+0.9999999  # 9.999999E-1
+1.0000001  # 1.0000001E0
+1.9999999  # 1.9999999E0
+2.0000001  # 2E0
+0.3333333  # 3.333333E-1
+0.6666666  # 6.666666E-1
+3.1415927  # 3.1415927E0
+2.7182818  # 2.7182817E0
+1.4142135  # 1.4142135E0
+1.7320508  # 1.7320508E0
+2.2360679  # 2.236068E0
+nan  # NaN
+inf  # Infinity
+-inf  # -Infinity
+-0.0  # -0E0
+10000000000.0  # 1E10
+1e+20  # 1E20
+1e+30  # 1E30
+1e+38  # 1E38
+1e-10  # 1E-10
+1e-20  # 1E-20
+1e-30  # 1E-30
+1e-38  # 1E-38
+3.4028235e+38  # 3.4028235E38
+1.1754944e-38  # 1.1754944E-38
+1.17549435e-38  # 1.1754944E-38
+1e-45  # 1E-45
+5.9604645e-08  # 5.9604645E-8
+1.1920929e-07  # 1.1920929E-7
+2.3841858e-07  # 2.3841858E-7
+4.7683716e-07  # 4.7683716E-7
+9.5367432e-07  # 9.536743E-7
+1.9073486e-06  # 1.9073486E-6
+3.8146973e-06  # 3.8146973E-6
+7.6293945e-06  # 7.6293945E-6
+1.5258789e-05  # 1.5258789E-5
+3.0517578e-05  # 3.0517578E-5
+6.1035156e-05  # 6.1035156E-5
+0.00012207031  # 1.2207031E-4
+0.00024414062  # 2.4414062E-4
+0.00048828125  # 4.8828125E-4
+0.0009765625  # 9.765625E-4
+0.001953125  # 1.953125E-3
+0.00390625  # 3.90625E-3
+0.0078125  # 7.8125E-3
+0.015625  # 1.5625E-2
+0.03125  # 3.125E-2
+0.0625  # 6.25E-2
+0.125  # 1.25E-1
+0.25  # 2.5E-1
+0.5  # 5E-1
+9999999.0  # 9.999999E6
+99999999.0  # 1E8
+999999999.0  # 1E9
+1.1111111  # 1.111111E0
+2.2222222  # 2.222222E0
+3.3333333  # 3.3333333E0
+4.4444444  # 4.444444E0
+5.5555555  # 5.5555553E0
+6.6666666  # 6.6666665E0
+7.7777777  # 7.7777777E0
+8.8888888  # 8.888888E0
+9.9999999  # 1E1
+0.1111111  # 1.111111E-1
+0.2222222  # 2.222222E-1
+0.3333333  # 3.333333E-1
+0.4444444  # 4.444444E-1
+0.5555555  # 5.555555E-1
+0.6666666  # 6.666666E-1
+0.7777777  # 7.777777E-1
+0.8888888  # 8.888888E-1
+0.9999999  # 9.999999E-1
+12345678900.0  # 1.2345679E10
+1.23456789e+20  # 1.2345679E20
+1.23456789e+30  # 1.2345679E30
+1.23456789e-10  # 1.2345679E-10
+1.23456789e-20  # 1.2345679E-20
+1.23456789e-30  # 1.2345679E-30
+33554432.0  # 3.3554432E7
+536870912.0  # 5.368709E8
+4294967296.0  # 4.2949673E9
+34359738368.0  # 3.435974E10
+549755813888.0  # 5.497558E11
+4398046511104.0  # 4.3980465E12
+35184372088832.0  # 3.5184372E13
+562949953421312.0  # 5.6294995E14
+4503599627370496.0  # 4.5035996E15
+3.602879701896397e+16  # 3.6028797E16
+5.764607523034235e+17  # 5.7646075E17
+4.611686018427388e+18  # 4.611686E18
+3.68934881474191e+19  # 3.689349E19
+5.902958103587057e+20  # 5.902958E20
+4.722366482869645e+21  # 4.7223665E21
+3.777893186295716e+22  # 3.7778932E22
+6.044629098073146e+23  # 6.044629E23
+4.835703278458517e+24  # 4.8357033E24
+3.868562622766813e+25  # 3.8685626E25
+6.189700196426901e+26  # 6.1897002E26
+4.951760157141521e+27  # 4.9517602E27
+3.961408125713217e+28  # 3.9614081E28
+6.338253001141147e+29  # 6.338253E29
+5.070602400912918e+30  # 5.0706024E30
+4.056481920730334e+31  # 4.056482E31
+6.490371073168535e+32  # 6.490371E32
+5.192296858534828e+33  # 5.192297E33
+4.153837486827862e+34  # 4.1538375E34
+6.64613997892458e+35  # 6.64614E35
+5.316911983139663e+36  # 5.316912E36
+4.253529586511731e+37  # 4.2535296E37
+4194304.0  # 4.194304E6
+524288.0  # 5.24288E5
+65536.0  # 6.5536E4
+4096.0  # 4.096E3
+512.0  # 5.12E2
+64.0  # 6.4E1
+4.0  # 4E0
+0.5  # 5E-1
+0.0625  # 6.25E-2
+0.00390625  # 3.90625E-3
+0.00048828125  # 4.8828125E-4
+6.103515625e-05  # 6.1035156E-5
+3.814697265625e-06  # 3.8146973E-6
+4.76837158203125e-07  # 4.7683716E-7
+5.960464477539062e-08  # 5.9604645E-8
+3.725290298461914e-09  # 3.7252903E-9
+4.656612873077393e-10  # 4.656613E-10
+5.820766091346741e-11  # 5.820766E-11
+3.637978807091713e-12  # 3.637979E-12
+4.547473508864641e-13  # 4.5474735E-13
+5.684341886080801e-14  # 5.684342E-14
+3.552713678800501e-15  # 3.5527137E-15
+4.440892098500626e-16  # 4.440892E-16
+5.551115123125783e-17  # 5.551115E-17
+3.469446951953614e-18  # 3.469447E-18
+4.336808689942018e-19  # 4.3368087E-19
+5.421010862427522e-20  # 5.421011E-20
+3.388131789017201e-21  # 3.3881318E-21
+4.235164736271502e-22  # 4.2351647E-22
+5.293955920339377e-23  # 5.293956E-23
+6.617444900424221e-24  # 6.617445E-24
+4.135903062765138e-25  # 4.135903E-25
+5.169878828456423e-26  # 5.169879E-26
+6.462348535570529e-27  # 6.4623485E-27
+4.03896783473158e-28  # 4.038968E-28
+5.048709793414476e-29  # 5.04871E-29
+6.310887241768094e-30  # 6.3108872E-30
+3.944304526105059e-31  # 3.9443045E-31
+4.930380657631324e-32  # 4.9303807E-32
+6.162975822039155e-33  # 6.162976E-33
+3.851859888774472e-34  # 3.85186E-34
+4.81482486096809e-35  # 4.814825E-35
+6.018531076210112e-36  # 6.018531E-36
+3.76158192263132e-37  # 3.761582E-37
+4.70197740328915e-38  # 4.7019774E-38
+1.175494350822288e-38  # 1.1754944E-38
+nan  # special: -QNaN 0xFFC00000
+nan  # special: SNaN 0x7F800001
+nan  # special: -SNaN 0xFF800001
+nan  # special: NaN_max_payload 0x7FFFFFFF
+1.401298464324817e-45  # subnormal: 0x00000001
+4.203895392974451e-45  # subnormal: 0x00000003
+2.1019476964872256e-44  # subnormal: 0x0000000F
+3.5733110840282835e-43  # subnormal: 0x000000FF
+5.738317211410126e-42  # subnormal: 0x00000FFF
+5.739718509874451e-42  # subnormal: 0x00001000
+1.469366537229395e-39  # subnormal: 0x000FFFFF
+1.4693679385278594e-39  # subnormal: 0x00100000
+5.877470352812973e-39  # subnormal: 0x003FFFFF
+5.877471754111438e-39  # subnormal: 0x00400000
+1.1754942106924411e-38  # subnormal: 0x007FFFFF
+1.1754943508222875e-38  # normal: 0x00800000
+-1.1754943508222875e-38  # normal: 0x80800000
+1.7632415262334313e-38  # normal: 0x00C00000
+-1.7632415262334313e-38  # normal: 0x80C00000
+2.3509885615147286e-38  # normal: 0x00FFFFFF
+-2.3509885615147286e-38  # normal: 0x80FFFFFF
+1.232595164407831e-32  # normal: 0x0A800000
+-1.232595164407831e-32  # normal: 0x8A800000
+1.8488927466117464e-32  # normal: 0x0AC00000
+-1.8488927466117464e-32  # normal: 0x8AC00000
+2.465190181878868e-32  # normal: 0x0AFFFFFF
+-2.465190181878868e-32  # normal: 0x8AFFFFFF
+1.2924697071141057e-26  # normal: 0x14800000
+-1.2924697071141057e-26  # normal: 0x94800000
+1.9387045606711586e-26  # normal: 0x14C00000
+-1.9387045606711586e-26  # normal: 0x94C00000
+2.584939260153816e-26  # normal: 0x14FFFFFF
+-2.584939260153816e-26  # normal: 0x94FFFFFF
+1.3552527156068805e-20  # normal: 0x1E800000
+-1.3552527156068805e-20  # normal: 0x9E800000
+2.0328790734103208e-20  # normal: 0x1EC00000
+-2.0328790734103208e-20  # normal: 0x9EC00000
+2.7105052696550477e-20  # normal: 0x1EFFFFFF
+-2.7105052696550477e-20  # normal: 0x9EFFFFFF
+1.4210854715202004e-14  # normal: 0x28800000
+-1.4210854715202004e-14  # normal: 0xA8800000
+2.1316282072803006e-14  # normal: 0x28C00000
+-2.1316282072803006e-14  # normal: 0xA8C00000
+2.8421707736338113e-14  # normal: 0x28FFFFFF
+-2.8421707736338113e-14  # normal: 0xA8FFFFFF
+1.4901161193847656e-08  # normal: 0x32800000
+-1.4901161193847656e-08  # normal: 0xB2800000
+2.2351741790771484e-08  # normal: 0x32C00000
+-2.2351741790771484e-08  # normal: 0xB2C00000
+2.9802320611338473e-08  # normal: 0x32FFFFFF
+-2.9802320611338473e-08  # normal: 0xB2FFFFFF
+-0.015625  # normal: 0xBC800000
+0.0234375  # normal: 0x3CC00000
+-0.0234375  # normal: 0xBCC00000
+0.03124999813735485  # normal: 0x3CFFFFFF
+-0.03124999813735485  # normal: 0xBCFFFFFF
+16384.0  # normal: 0x46800000
+-16384.0  # normal: 0xC6800000
+24576.0  # normal: 0x46C00000
+-24576.0  # normal: 0xC6C00000
+32767.998046875  # normal: 0x46FFFFFF
+-32767.998046875  # normal: 0xC6FFFFFF
+17179869184.0  # normal: 0x50800000
+-17179869184.0  # normal: 0xD0800000
+25769803776.0  # normal: 0x50C00000
+-25769803776.0  # normal: 0xD0C00000
+34359736320.0  # normal: 0x50FFFFFF
+-34359736320.0  # normal: 0xD0FFFFFF
+-1.8014398509481984e+16  # normal: 0xDA800000
+2.7021597764222976e+16  # normal: 0x5AC00000
+-2.7021597764222976e+16  # normal: 0xDAC00000
+3.602879487148032e+16  # normal: 0x5AFFFFFF
+-3.602879487148032e+16  # normal: 0xDAFFFFFF
+-1.888946593147858e+22  # normal: 0xE4800000
+2.833419889721787e+22  # normal: 0x64C00000
+-2.833419889721787e+22  # normal: 0xE4C00000
+3.777892961115735e+22  # normal: 0x64FFFFFF
+-3.777892961115735e+22  # normal: 0xE4FFFFFF
+-1.9807040628566084e+28  # normal: 0xEE800000
+2.9710560942849127e+28  # normal: 0x6EC00000
+-2.9710560942849127e+28  # normal: 0xEEC00000
+3.9614078895948927e+28  # normal: 0x6EFFFFFF
+-3.9614078895948927e+28  # normal: 0xEEFFFFFF
+-2.076918743413931e+34  # normal: 0xF8800000
+3.1153781151208966e+34  # normal: 0x78C00000
+-3.1153781151208966e+34  # normal: 0xF8C00000
+4.1538372392398542e+34  # normal: 0x78FFFFFF
+-4.1538372392398542e+34  # normal: 0xF8FFFFFF
+1.0000001e-30  # rounding: 1e-30+eps
+9.999999000000001e-31  # rounding: 1e-30-eps
+-1e-30  # rounding: -1e-30
+-1.0000001e-30  # rounding: -1e-30+eps
+-9.999999000000001e-31  # rounding: -1e-30-eps
+1.0000001e-20  # rounding: 1e-20+eps
+9.999999e-21  # rounding: 1e-20-eps
+-1e-20  # rounding: -1e-20
+-1.0000001e-20  # rounding: -1e-20+eps
+-9.999999e-21  # rounding: -1e-20-eps
+1.0000001000000001e-10  # rounding: 1e-10+eps
+9.999999e-11  # rounding: 1e-10-eps
+-1e-10  # rounding: -1e-10
+-1.0000001000000001e-10  # rounding: -1e-10+eps
+-9.999999e-11  # rounding: -1e-10-eps
+-1.0000001  # rounding: -1.0+eps
+-0.9999999  # rounding: -1.0-eps
+10000001000.0  # rounding: 10000000000.0+eps
+9999999000.0  # rounding: 10000000000.0-eps
+-10000000000.0  # rounding: -10000000000.0
+-10000001000.0  # rounding: -10000000000.0+eps
+-9999999000.0  # rounding: -10000000000.0-eps
+1.0000001e+20  # rounding: 1e+20+eps
+9.999999e+19  # rounding: 1e+20-eps
+-1e+20  # rounding: -1e+20
+-1.0000001e+20  # rounding: -1e+20+eps
+-9.999999e+19  # rounding: -1e+20-eps
+-2.0  # bugbranch: -2.0
+3.0  # bugbranch: 3.0
+-3.0  # bugbranch: -3.0
+-5.0  # bugbranch: -5.0
+7.0  # bugbranch: 7.0
+-7.0  # bugbranch: -7.0
+-10.0  # bugbranch: -10.0
+11.0  # bugbranch: 11.0
+-11.0  # bugbranch: -11.0
+13.0  # bugbranch: 13.0
+-13.0  # bugbranch: -13.0
+17.0  # bugbranch: 17.0
+-17.0  # bugbranch: -17.0
+19.0  # bugbranch: 19.0
+-19.0  # bugbranch: -19.0
+-25.0  # bugbranch: -25.0
+-100.0  # bugbranch: -100.0
+125.0  # bugbranch: 125.0
+-125.0  # bugbranch: -125.0
+625.0  # bugbranch: 625.0
+-625.0  # bugbranch: -625.0
+-1000.0  # bugbranch: -1000.0
+5000.0  # bugbranch: 5000.0
+-5000.0  # bugbranch: -5000.0
+-10000.0  # bugbranch: -10000.0
+9.999999  # bugbranch: 9.999999
+-9.999999  # bugbranch: -9.999999
+-9.9999999  # bugbranch: -9.9999999
+10.000001  # bugbranch: 10.000001
+-10.000001  # bugbranch: -10.000001
+10.0000001  # bugbranch: 10.0000001
+-10.0000001  # bugbranch: -10.0000001
+99.99999  # bugbranch: 99.99999
+-99.99999  # bugbranch: -99.99999
+100.00001  # bugbranch: 100.00001
+-100.00001  # bugbranch: -100.00001
+999.9999  # bugbranch: 999.9999
+-999.9999  # bugbranch: -999.9999
+1000.0001  # bugbranch: 1000.0001
+-1000.0001  # bugbranch: -1000.0001
+9999.999  # bugbranch: 9999.999
+-9999.999  # bugbranch: -9999.999
+10000.001  # bugbranch: 10000.001
+-10000.001  # bugbranch: -10000.001
+1.25  # bugbranch: 1.25
+-1.25  # bugbranch: -1.25
+2.5  # bugbranch: 2.5
+-2.5  # bugbranch: -2.5
+0.625  # bugbranch: 0.625
+-0.625  # bugbranch: -0.625
+0.3125  # bugbranch: 0.3125
+-0.3125  # bugbranch: -0.3125
+0.15625  # bugbranch: 0.15625
+-0.15625  # bugbranch: -0.15625
+9.0  # bugbranch_int: 9
+-9.0  # bugbranch_int: -9
+15.0  # bugbranch_int: 15
+-15.0  # bugbranch_int: -15
+21.0  # bugbranch_int: 21
+-21.0  # bugbranch_int: -21
+23.0  # bugbranch_int: 23
+-23.0  # bugbranch_int: -23
+27.0  # bugbranch_int: 27
+-27.0  # bugbranch_int: -27
+29.0  # bugbranch_int: 29
+-29.0  # bugbranch_int: -29
+31.0  # bugbranch_int: 31
+-31.0  # bugbranch_int: -31
+33.0  # bugbranch_int: 33
+-33.0  # bugbranch_int: -33
+35.0  # bugbranch_int: 35
+-35.0  # bugbranch_int: -35
+37.0  # bugbranch_int: 37
+-37.0  # bugbranch_int: -37
+39.0  # bugbranch_int: 39
+-39.0  # bugbranch_int: -39
+41.0  # bugbranch_int: 41
+-41.0  # bugbranch_int: -41
+43.0  # bugbranch_int: 43
+-43.0  # bugbranch_int: -43
+45.0  # bugbranch_int: 45
+-45.0  # bugbranch_int: -45
+47.0  # bugbranch_int: 47
+-47.0  # bugbranch_int: -47
+49.0  # bugbranch_int: 49
+-49.0  # bugbranch_int: -49
+51.0  # bugbranch_int: 51
+-51.0  # bugbranch_int: -51
+53.0  # bugbranch_int: 53
+-53.0  # bugbranch_int: -53
+55.0  # bugbranch_int: 55
+-55.0  # bugbranch_int: -55
+57.0  # bugbranch_int: 57
+-57.0  # bugbranch_int: -57
+59.0  # bugbranch_int: 59
+-59.0  # bugbranch_int: -59
+61.0  # bugbranch_int: 61
+-61.0  # bugbranch_int: -61
+63.0  # bugbranch_int: 63
+-63.0  # bugbranch_int: -63
+65.0  # bugbranch_int: 65
+-65.0  # bugbranch_int: -65
+67.0  # bugbranch_int: 67
+-67.0  # bugbranch_int: -67
+69.0  # bugbranch_int: 69
+-69.0  # bugbranch_int: -69
+71.0  # bugbranch_int: 71
+-71.0  # bugbranch_int: -71
+73.0  # bugbranch_int: 73
+-73.0  # bugbranch_int: -73
+75.0  # bugbranch_int: 75
+-75.0  # bugbranch_int: -75
+77.0  # bugbranch_int: 77
+-77.0  # bugbranch_int: -77
+79.0  # bugbranch_int: 79
+-79.0  # bugbranch_int: -79
+81.0  # bugbranch_int: 81
+-81.0  # bugbranch_int: -81
+83.0  # bugbranch_int: 83
+-83.0  # bugbranch_int: -83
+85.0  # bugbranch_int: 85
+-85.0  # bugbranch_int: -85
+87.0  # bugbranch_int: 87
+-87.0  # bugbranch_int: -87
+89.0  # bugbranch_int: 89
+-89.0  # bugbranch_int: -89
+91.0  # bugbranch_int: 91
+-91.0  # bugbranch_int: -91
+93.0  # bugbranch_int: 93
+-93.0  # bugbranch_int: -93
+95.0  # bugbranch_int: 95
+-95.0  # bugbranch_int: -95
+97.0  # bugbranch_int: 97
+-97.0  # bugbranch_int: -97
+99.0  # bugbranch_int: 99
+-99.0  # bugbranch_int: -99
+110.0  # bugbranch_int: 110
+-110.0  # bugbranch_int: -110
+120.0  # bugbranch_int: 120
+-120.0  # bugbranch_int: -120
+130.0  # bugbranch_int: 130
+-130.0  # bugbranch_int: -130
+140.0  # bugbranch_int: 140
+-140.0  # bugbranch_int: -140
+150.0  # bugbranch_int: 150
+-150.0  # bugbranch_int: -150
+160.0  # bugbranch_int: 160
+-160.0  # bugbranch_int: -160
+170.0  # bugbranch_int: 170
+-170.0  # bugbranch_int: -170
+180.0  # bugbranch_int: 180
+-180.0  # bugbranch_int: -180
+190.0  # bugbranch_int: 190
+-190.0  # bugbranch_int: -190
+200.0  # bugbranch_int: 200
+-200.0  # bugbranch_int: -200
+210.0  # bugbranch_int: 210
+-210.0  # bugbranch_int: -210
+220.0  # bugbranch_int: 220
+-220.0  # bugbranch_int: -220
+230.0  # bugbranch_int: 230
+-230.0  # bugbranch_int: -230
+240.0  # bugbranch_int: 240
+-240.0  # bugbranch_int: -240
+250.0  # bugbranch_int: 250
+-250.0  # bugbranch_int: -250
+260.0  # bugbranch_int: 260
+-260.0  # bugbranch_int: -260
+270.0  # bugbranch_int: 270
+-270.0  # bugbranch_int: -270
+280.0  # bugbranch_int: 280
+-280.0  # bugbranch_int: -280
+290.0  # bugbranch_int: 290
+-290.0  # bugbranch_int: -290
+300.0  # bugbranch_int: 300
+-300.0  # bugbranch_int: -300
+310.0  # bugbranch_int: 310
+-310.0  # bugbranch_int: -310
+320.0  # bugbranch_int: 320
+-320.0  # bugbranch_int: -320
+330.0  # bugbranch_int: 330
+-330.0  # bugbranch_int: -330
+340.0  # bugbranch_int: 340
+-340.0  # bugbranch_int: -340
+350.0  # bugbranch_int: 350
+-350.0  # bugbranch_int: -350
+360.0  # bugbranch_int: 360
+-360.0  # bugbranch_int: -360
+370.0  # bugbranch_int: 370
+-370.0  # bugbranch_int: -370
+380.0  # bugbranch_int: 380
+-380.0  # bugbranch_int: -380
+390.0  # bugbranch_int: 390
+-390.0  # bugbranch_int: -390
+400.0  # bugbranch_int: 400
+-400.0  # bugbranch_int: -400
+410.0  # bugbranch_int: 410
+-410.0  # bugbranch_int: -410
+420.0  # bugbranch_int: 420
+-420.0  # bugbranch_int: -420
+430.0  # bugbranch_int: 430
+-430.0  # bugbranch_int: -430
+440.0  # bugbranch_int: 440
+-440.0  # bugbranch_int: -440
+450.0  # bugbranch_int: 450
+-450.0  # bugbranch_int: -450
+460.0  # bugbranch_int: 460
+-460.0  # bugbranch_int: -460
+470.0  # bugbranch_int: 470
+-470.0  # bugbranch_int: -470
+480.0  # bugbranch_int: 480
+-480.0  # bugbranch_int: -480
+490.0  # bugbranch_int: 490
+-490.0  # bugbranch_int: -490
+500.0  # bugbranch_int: 500
+-500.0  # bugbranch_int: -500
+510.0  # bugbranch_int: 510
+-510.0  # bugbranch_int: -510
+520.0  # bugbranch_int: 520
+-520.0  # bugbranch_int: -520
+530.0  # bugbranch_int: 530
+-530.0  # bugbranch_int: -530
+540.0  # bugbranch_int: 540
+-540.0  # bugbranch_int: -540
+550.0  # bugbranch_int: 550
+-550.0  # bugbranch_int: -550
+560.0  # bugbranch_int: 560
+-560.0  # bugbranch_int: -560
+570.0  # bugbranch_int: 570
+-570.0  # bugbranch_int: -570
+580.0  # bugbranch_int: 580
+-580.0  # bugbranch_int: -580
+590.0  # bugbranch_int: 590
+-590.0  # bugbranch_int: -590
+600.0  # bugbranch_int: 600
+-600.0  # bugbranch_int: -600
+610.0  # bugbranch_int: 610
+-610.0  # bugbranch_int: -610
+620.0  # bugbranch_int: 620
+-620.0  # bugbranch_int: -620
+630.0  # bugbranch_int: 630
+-630.0  # bugbranch_int: -630
+640.0  # bugbranch_int: 640
+-640.0  # bugbranch_int: -640
+650.0  # bugbranch_int: 650
+-650.0  # bugbranch_int: -650
+660.0  # bugbranch_int: 660
+-660.0  # bugbranch_int: -660
+670.0  # bugbranch_int: 670
+-670.0  # bugbranch_int: -670
+680.0  # bugbranch_int: 680
+-680.0  # bugbranch_int: -680
+690.0  # bugbranch_int: 690
+-690.0  # bugbranch_int: -690
+700.0  # bugbranch_int: 700
+-700.0  # bugbranch_int: -700
+710.0  # bugbranch_int: 710
+-710.0  # bugbranch_int: -710
+720.0  # bugbranch_int: 720
+-720.0  # bugbranch_int: -720
+730.0  # bugbranch_int: 730
+-730.0  # bugbranch_int: -730
+740.0  # bugbranch_int: 740
+-740.0  # bugbranch_int: -740
+750.0  # bugbranch_int: 750
+-750.0  # bugbranch_int: -750
+760.0  # bugbranch_int: 760
+-760.0  # bugbranch_int: -760
+770.0  # bugbranch_int: 770
+-770.0  # bugbranch_int: -770
+780.0  # bugbranch_int: 780
+-780.0  # bugbranch_int: -780
+790.0  # bugbranch_int: 790
+-790.0  # bugbranch_int: -790
+800.0  # bugbranch_int: 800
+-800.0  # bugbranch_int: -800
+810.0  # bugbranch_int: 810
+-810.0  # bugbranch_int: -810
+820.0  # bugbranch_int: 820
+-820.0  # bugbranch_int: -820
+830.0  # bugbranch_int: 830
+-830.0  # bugbranch_int: -830
+840.0  # bugbranch_int: 840
+-840.0  # bugbranch_int: -840
+850.0  # bugbranch_int: 850
+-850.0  # bugbranch_int: -850
+860.0  # bugbranch_int: 860
+-860.0  # bugbranch_int: -860
+870.0  # bugbranch_int: 870
+-870.0  # bugbranch_int: -870
+880.0  # bugbranch_int: 880
+-880.0  # bugbranch_int: -880
+890.0  # bugbranch_int: 890
+-890.0  # bugbranch_int: -890
+900.0  # bugbranch_int: 900
+-900.0  # bugbranch_int: -900
+910.0  # bugbranch_int: 910
+-910.0  # bugbranch_int: -910
+920.0  # bugbranch_int: 920
+-920.0  # bugbranch_int: -920
+930.0  # bugbranch_int: 930
+-930.0  # bugbranch_int: -930
+940.0  # bugbranch_int: 940
+-940.0  # bugbranch_int: -940
+950.0  # bugbranch_int: 950
+-950.0  # bugbranch_int: -950
+960.0  # bugbranch_int: 960
+-960.0  # bugbranch_int: -960
+970.0  # bugbranch_int: 970
+-970.0  # bugbranch_int: -970
+980.0  # bugbranch_int: 980
+-980.0  # bugbranch_int: -980
+990.0  # bugbranch_int: 990
+-990.0  # bugbranch_int: -990
+1050.0  # bugbranch_int: 1050
+-1050.0  # bugbranch_int: -1050
+1100.0  # bugbranch_int: 1100
+-1100.0  # bugbranch_int: -1100
+1150.0  # bugbranch_int: 1150
+-1150.0  # bugbranch_int: -1150
+1200.0  # bugbranch_int: 1200
+-1200.0  # bugbranch_int: -1200
+1250.0  # bugbranch_int: 1250
+-1250.0  # bugbranch_int: -1250
+1300.0  # bugbranch_int: 1300
+-1300.0  # bugbranch_int: -1300
+1350.0  # bugbranch_int: 1350
+-1350.0  # bugbranch_int: -1350
+1400.0  # bugbranch_int: 1400
+-1400.0  # bugbranch_int: -1400
+1450.0  # bugbranch_int: 1450
+-1450.0  # bugbranch_int: -1450
+1500.0  # bugbranch_int: 1500
+-1500.0  # bugbranch_int: -1500
+1550.0  # bugbranch_int: 1550
+-1550.0  # bugbranch_int: -1550
+1600.0  # bugbranch_int: 1600
+-1600.0  # bugbranch_int: -1600
+1650.0  # bugbranch_int: 1650
+-1650.0  # bugbranch_int: -1650
+1700.0  # bugbranch_int: 1700
+-1700.0  # bugbranch_int: -1700
+1750.0  # bugbranch_int: 1750
+-1750.0  # bugbranch_int: -1750
+1800.0  # bugbranch_int: 1800
+-1800.0  # bugbranch_int: -1800
+1850.0  # bugbranch_int: 1850
+-1850.0  # bugbranch_int: -1850
+1900.0  # bugbranch_int: 1900
+-1900.0  # bugbranch_int: -1900
+1950.0  # bugbranch_int: 1950
+-1950.0  # bugbranch_int: -1950
+2000.0  # bugbranch_int: 2000
+-2000.0  # bugbranch_int: -2000
+2050.0  # bugbranch_int: 2050
+-2050.0  # bugbranch_int: -2050
+2100.0  # bugbranch_int: 2100
+-2100.0  # bugbranch_int: -2100
+2150.0  # bugbranch_int: 2150
+-2150.0  # bugbranch_int: -2150
+2200.0  # bugbranch_int: 2200
+-2200.0  # bugbranch_int: -2200
+2250.0  # bugbranch_int: 2250
+-2250.0  # bugbranch_int: -2250
+2300.0  # bugbranch_int: 2300
+-2300.0  # bugbranch_int: -2300
+2350.0  # bugbranch_int: 2350
+-2350.0  # bugbranch_int: -2350
+2400.0  # bugbranch_int: 2400
+-2400.0  # bugbranch_int: -2400
+2450.0  # bugbranch_int: 2450
+-2450.0  # bugbranch_int: -2450
+2500.0  # bugbranch_int: 2500
+-2500.0  # bugbranch_int: -2500
+2550.0  # bugbranch_int: 2550
+-2550.0  # bugbranch_int: -2550
+2600.0  # bugbranch_int: 2600
+-2600.0  # bugbranch_int: -2600
+2650.0  # bugbranch_int: 2650
+-2650.0  # bugbranch_int: -2650
+2700.0  # bugbranch_int: 2700
+-2700.0  # bugbranch_int: -2700
+2750.0  # bugbranch_int: 2750
+-2750.0  # bugbranch_int: -2750
+2800.0  # bugbranch_int: 2800
+-2800.0  # bugbranch_int: -2800
+2850.0  # bugbranch_int: 2850
+-2850.0  # bugbranch_int: -2850
+2900.0  # bugbranch_int: 2900
+-2900.0  # bugbranch_int: -2900
+2950.0  # bugbranch_int: 2950
+-2950.0  # bugbranch_int: -2950
+3000.0  # bugbranch_int: 3000
+-3000.0  # bugbranch_int: -3000
+3050.0  # bugbranch_int: 3050
+-3050.0  # bugbranch_int: -3050
+3100.0  # bugbranch_int: 3100
+-3100.0  # bugbranch_int: -3100
+3150.0  # bugbranch_int: 3150
+-3150.0  # bugbranch_int: -3150
+3200.0  # bugbranch_int: 3200
+-3200.0  # bugbranch_int: -3200
+3250.0  # bugbranch_int: 3250
+-3250.0  # bugbranch_int: -3250
+3300.0  # bugbranch_int: 3300
+-3300.0  # bugbranch_int: -3300
+3350.0  # bugbranch_int: 3350
+-3350.0  # bugbranch_int: -3350
+3400.0  # bugbranch_int: 3400
+-3400.0  # bugbranch_int: -3400
+3450.0  # bugbranch_int: 3450
+-3450.0  # bugbranch_int: -3450
+3500.0  # bugbranch_int: 3500
+-3500.0  # bugbranch_int: -3500
+3550.0  # bugbranch_int: 3550
+-3550.0  # bugbranch_int: -3550
+3600.0  # bugbranch_int: 3600
+-3600.0  # bugbranch_int: -3600
+3650.0  # bugbranch_int: 3650
+-3650.0  # bugbranch_int: -3650
+3700.0  # bugbranch_int: 3700
+-3700.0  # bugbranch_int: -3700
+3750.0  # bugbranch_int: 3750
+-3750.0  # bugbranch_int: -3750
+3800.0  # bugbranch_int: 3800
+-3800.0  # bugbranch_int: -3800
+3850.0  # bugbranch_int: 3850
+-3850.0  # bugbranch_int: -3850
+3900.0  # bugbranch_int: 3900
+-3900.0  # bugbranch_int: -3900
+3950.0  # bugbranch_int: 3950
+-3950.0  # bugbranch_int: -3950
+4000.0  # bugbranch_int: 4000
+-4000.0  # bugbranch_int: -4000
+4050.0  # bugbranch_int: 4050
+-4050.0  # bugbranch_int: -4050
+4100.0  # bugbranch_int: 4100
+-4100.0  # bugbranch_int: -4100
+4150.0  # bugbranch_int: 4150
+-4150.0  # bugbranch_int: -4150
+4200.0  # bugbranch_int: 4200
+-4200.0  # bugbranch_int: -4200
+4250.0  # bugbranch_int: 4250
+-4250.0  # bugbranch_int: -4250
+4300.0  # bugbranch_int: 4300
+-4300.0  # bugbranch_int: -4300
+4350.0  # bugbranch_int: 4350
+-4350.0  # bugbranch_int: -4350
+4400.0  # bugbranch_int: 4400
+-4400.0  # bugbranch_int: -4400
+4450.0  # bugbranch_int: 4450
+-4450.0  # bugbranch_int: -4450
+4500.0  # bugbranch_int: 4500
+-4500.0  # bugbranch_int: -4500
+4550.0  # bugbranch_int: 4550
+-4550.0  # bugbranch_int: -4550
+4600.0  # bugbranch_int: 4600
+-4600.0  # bugbranch_int: -4600
+4650.0  # bugbranch_int: 4650
+-4650.0  # bugbranch_int: -4650
+4700.0  # bugbranch_int: 4700
+-4700.0  # bugbranch_int: -4700
+4750.0  # bugbranch_int: 4750
+-4750.0  # bugbranch_int: -4750
+4800.0  # bugbranch_int: 4800
+-4800.0  # bugbranch_int: -4800
+4850.0  # bugbranch_int: 4850
+-4850.0  # bugbranch_int: -4850
+4900.0  # bugbranch_int: 4900
+-4900.0  # bugbranch_int: -4900
+4950.0  # bugbranch_int: 4950
+-4950.0  # bugbranch_int: -4950
+5050.0  # bugbranch_int: 5050
+-5050.0  # bugbranch_int: -5050
+5100.0  # bugbranch_int: 5100
+-5100.0  # bugbranch_int: -5100
+5150.0  # bugbranch_int: 5150
+-5150.0  # bugbranch_int: -5150
+5200.0  # bugbranch_int: 5200
+-5200.0  # bugbranch_int: -5200
+5250.0  # bugbranch_int: 5250
+-5250.0  # bugbranch_int: -5250
+5300.0  # bugbranch_int: 5300
+-5300.0  # bugbranch_int: -5300
+5350.0  # bugbranch_int: 5350
+-5350.0  # bugbranch_int: -5350
+5400.0  # bugbranch_int: 5400
+-5400.0  # bugbranch_int: -5400
+5450.0  # bugbranch_int: 5450
+-5450.0  # bugbranch_int: -5450
+5500.0  # bugbranch_int: 5500
+-5500.0  # bugbranch_int: -5500
+5550.0  # bugbranch_int: 5550
+-5550.0  # bugbranch_int: -5550
+5600.0  # bugbranch_int: 5600
+-5600.0  # bugbranch_int: -5600
+5650.0  # bugbranch_int: 5650
+-5650.0  # bugbranch_int: -5650
+5700.0  # bugbranch_int: 5700
+-5700.0  # bugbranch_int: -5700
+5750.0  # bugbranch_int: 5750
+-5750.0  # bugbranch_int: -5750
+5800.0  # bugbranch_int: 5800
+-5800.0  # bugbranch_int: -5800
+5850.0  # bugbranch_int: 5850
+-5850.0  # bugbranch_int: -5850
+5900.0  # bugbranch_int: 5900
+-5900.0  # bugbranch_int: -5900
+5950.0  # bugbranch_int: 5950
+-5950.0  # bugbranch_int: -5950
+6000.0  # bugbranch_int: 6000
+-6000.0  # bugbranch_int: -6000
+6050.0  # bugbranch_int: 6050
+-6050.0  # bugbranch_int: -6050
+6100.0  # bugbranch_int: 6100
+-6100.0  # bugbranch_int: -6100
+6150.0  # bugbranch_int: 6150
+-6150.0  # bugbranch_int: -6150
+6200.0  # bugbranch_int: 6200
+-6200.0  # bugbranch_int: -6200
+6250.0  # bugbranch_int: 6250
+-6250.0  # bugbranch_int: -6250
+6300.0  # bugbranch_int: 6300
+-6300.0  # bugbranch_int: -6300
+6350.0  # bugbranch_int: 6350
+-6350.0  # bugbranch_int: -6350
+6400.0  # bugbranch_int: 6400
+-6400.0  # bugbranch_int: -6400
+6450.0  # bugbranch_int: 6450
+-6450.0  # bugbranch_int: -6450
+6500.0  # bugbranch_int: 6500
+-6500.0  # bugbranch_int: -6500
+6550.0  # bugbranch_int: 6550
+-6550.0  # bugbranch_int: -6550
+6600.0  # bugbranch_int: 6600
+-6600.0  # bugbranch_int: -6600
+6650.0  # bugbranch_int: 6650
+-6650.0  # bugbranch_int: -6650
+6700.0  # bugbranch_int: 6700
+-6700.0  # bugbranch_int: -6700
+6750.0  # bugbranch_int: 6750
+-6750.0  # bugbranch_int: -6750
+6800.0  # bugbranch_int: 6800
+-6800.0  # bugbranch_int: -6800
+6850.0  # bugbranch_int: 6850
+-6850.0  # bugbranch_int: -6850
+6900.0  # bugbranch_int: 6900
+-6900.0  # bugbranch_int: -6900
+6950.0  # bugbranch_int: 6950
+-6950.0  # bugbranch_int: -6950
+7000.0  # bugbranch_int: 7000
+-7000.0  # bugbranch_int: -7000
+7050.0  # bugbranch_int: 7050
+-7050.0  # bugbranch_int: -7050
+7100.0  # bugbranch_int: 7100
+-7100.0  # bugbranch_int: -7100
+7150.0  # bugbranch_int: 7150
+-7150.0  # bugbranch_int: -7150
+7200.0  # bugbranch_int: 7200
+-7200.0  # bugbranch_int: -7200
+7250.0  # bugbranch_int: 7250
+-7250.0  # bugbranch_int: -7250
+7300.0  # bugbranch_int: 7300
+-7300.0  # bugbranch_int: -7300
+7350.0  # bugbranch_int: 7350
+-7350.0  # bugbranch_int: -7350
+7400.0  # bugbranch_int: 7400
+-7400.0  # bugbranch_int: -7400
+7450.0  # bugbranch_int: 7450
+-7450.0  # bugbranch_int: -7450
+7500.0  # bugbranch_int: 7500
+-7500.0  # bugbranch_int: -7500
+7550.0  # bugbranch_int: 7550
+-7550.0  # bugbranch_int: -7550
+7600.0  # bugbranch_int: 7600
+-7600.0  # bugbranch_int: -7600
+7650.0  # bugbranch_int: 7650
+-7650.0  # bugbranch_int: -7650
+7700.0  # bugbranch_int: 7700
+-7700.0  # bugbranch_int: -7700
+7750.0  # bugbranch_int: 7750
+-7750.0  # bugbranch_int: -7750
+7800.0  # bugbranch_int: 7800
+-7800.0  # bugbranch_int: -7800
+7850.0  # bugbranch_int: 7850
+-7850.0  # bugbranch_int: -7850
+7900.0  # bugbranch_int: 7900
+-7900.0  # bugbranch_int: -7900
+7950.0  # bugbranch_int: 7950
+-7950.0  # bugbranch_int: -7950
+8000.0  # bugbranch_int: 8000
+-8000.0  # bugbranch_int: -8000
+8050.0  # bugbranch_int: 8050
+-8050.0  # bugbranch_int: -8050
+8100.0  # bugbranch_int: 8100
+-8100.0  # bugbranch_int: -8100
+8150.0  # bugbranch_int: 8150
+-8150.0  # bugbranch_int: -8150
+8200.0  # bugbranch_int: 8200
+-8200.0  # bugbranch_int: -8200
+8250.0  # bugbranch_int: 8250
+-8250.0  # bugbranch_int: -8250
+8300.0  # bugbranch_int: 8300
+-8300.0  # bugbranch_int: -8300
+8350.0  # bugbranch_int: 8350
+-8350.0  # bugbranch_int: -8350
+8400.0  # bugbranch_int: 8400
+-8400.0  # bugbranch_int: -8400
+8450.0  # bugbranch_int: 8450
+-8450.0  # bugbranch_int: -8450
+8500.0  # bugbranch_int: 8500
+-8500.0  # bugbranch_int: -8500
+8550.0  # bugbranch_int: 8550
+-8550.0  # bugbranch_int: -8550
+8600.0  # bugbranch_int: 8600
+-8600.0  # bugbranch_int: -8600
+8650.0  # bugbranch_int: 8650
+-8650.0  # bugbranch_int: -8650
+8700.0  # bugbranch_int: 8700
+-8700.0  # bugbranch_int: -8700
+8750.0  # bugbranch_int: 8750
+-8750.0  # bugbranch_int: -8750
+8800.0  # bugbranch_int: 8800
+-8800.0  # bugbranch_int: -8800
+8850.0  # bugbranch_int: 8850
+-8850.0  # bugbranch_int: -8850
+8900.0  # bugbranch_int: 8900
+-8900.0  # bugbranch_int: -8900
+8950.0  # bugbranch_int: 8950
+-8950.0  # bugbranch_int: -8950
+9000.0  # bugbranch_int: 9000
+-9000.0  # bugbranch_int: -9000
+9050.0  # bugbranch_int: 9050
+-9050.0  # bugbranch_int: -9050
+9100.0  # bugbranch_int: 9100
+-9100.0  # bugbranch_int: -9100
+9150.0  # bugbranch_int: 9150
+-9150.0  # bugbranch_int: -9150
+9200.0  # bugbranch_int: 9200
+-9200.0  # bugbranch_int: -9200
+9250.0  # bugbranch_int: 9250
+-9250.0  # bugbranch_int: -9250
+9300.0  # bugbranch_int: 9300
+-9300.0  # bugbranch_int: -9300
+9350.0  # bugbranch_int: 9350
+-9350.0  # bugbranch_int: -9350
+9400.0  # bugbranch_int: 9400
+-9400.0  # bugbranch_int: -9400
+9450.0  # bugbranch_int: 9450
+-9450.0  # bugbranch_int: -9450
+9500.0  # bugbranch_int: 9500
+-9500.0  # bugbranch_int: -9500
+9550.0  # bugbranch_int: 9550
+-9550.0  # bugbranch_int: -9550
+9600.0  # bugbranch_int: 9600
+-9600.0  # bugbranch_int: -9600
+9650.0  # bugbranch_int: 9650
+-9650.0  # bugbranch_int: -9650
+9700.0  # bugbranch_int: 9700
+-9700.0  # bugbranch_int: -9700
+9750.0  # bugbranch_int: 9750
+-9750.0  # bugbranch_int: -9750
+9800.0  # bugbranch_int: 9800
+-9800.0  # bugbranch_int: -9800
+9850.0  # bugbranch_int: 9850
+-9850.0  # bugbranch_int: -9850
+9900.0  # bugbranch_int: 9900
+-9900.0  # bugbranch_int: -9900
+9950.0  # bugbranch_int: 9950
+-9950.0  # bugbranch_int: -9950
+99900.0  # bugbranch_int: 99900
+-99900.0  # bugbranch_int: -99900
+99901.0  # bugbranch_int: 99901
+-99901.0  # bugbranch_int: -99901
+99902.0  # bugbranch_int: 99902
+-99902.0  # bugbranch_int: -99902
+99903.0  # bugbranch_int: 99903
+-99903.0  # bugbranch_int: -99903
+99904.0  # bugbranch_int: 99904
+-99904.0  # bugbranch_int: -99904
+99905.0  # bugbranch_int: 99905
+-99905.0  # bugbranch_int: -99905
+99906.0  # bugbranch_int: 99906
+-99906.0  # bugbranch_int: -99906
+99907.0  # bugbranch_int: 99907
+-99907.0  # bugbranch_int: -99907
+99908.0  # bugbranch_int: 99908
+-99908.0  # bugbranch_int: -99908
+99909.0  # bugbranch_int: 99909
+-99909.0  # bugbranch_int: -99909
+99910.0  # bugbranch_int: 99910
+-99910.0  # bugbranch_int: -99910
+99911.0  # bugbranch_int: 99911
+-99911.0  # bugbranch_int: -99911
+99912.0  # bugbranch_int: 99912
+-99912.0  # bugbranch_int: -99912
+99913.0  # bugbranch_int: 99913
+-99913.0  # bugbranch_int: -99913
+99914.0  # bugbranch_int: 99914
+-99914.0  # bugbranch_int: -99914
+99915.0  # bugbranch_int: 99915
+-99915.0  # bugbranch_int: -99915
+99916.0  # bugbranch_int: 99916
+-99916.0  # bugbranch_int: -99916
+99917.0  # bugbranch_int: 99917
+-99917.0  # bugbranch_int: -99917
+99918.0  # bugbranch_int: 99918
+-99918.0  # bugbranch_int: -99918
+99919.0  # bugbranch_int: 99919
+-99919.0  # bugbranch_int: -99919
+99920.0  # bugbranch_int: 99920
+-99920.0  # bugbranch_int: -99920
+99921.0  # bugbranch_int: 99921
+-99921.0  # bugbranch_int: -99921
+99922.0  # bugbranch_int: 99922
+-99922.0  # bugbranch_int: -99922
+99923.0  # bugbranch_int: 99923
+-99923.0  # bugbranch_int: -99923
+99924.0  # bugbranch_int: 99924
+-99924.0  # bugbranch_int: -99924
+99925.0  # bugbranch_int: 99925
+-99925.0  # bugbranch_int: -99925
+99926.0  # bugbranch_int: 99926
+-99926.0  # bugbranch_int: -99926
+99927.0  # bugbranch_int: 99927
+-99927.0  # bugbranch_int: -99927
+99928.0  # bugbranch_int: 99928
+-99928.0  # bugbranch_int: -99928
+99929.0  # bugbranch_int: 99929
+-99929.0  # bugbranch_int: -99929
+99930.0  # bugbranch_int: 99930
+-99930.0  # bugbranch_int: -99930
+99931.0  # bugbranch_int: 99931
+-99931.0  # bugbranch_int: -99931
+99932.0  # bugbranch_int: 99932
+-99932.0  # bugbranch_int: -99932
+99933.0  # bugbranch_int: 99933
+-99933.0  # bugbranch_int: -99933
+99934.0  # bugbranch_int: 99934
+-99934.0  # bugbranch_int: -99934
+99935.0  # bugbranch_int: 99935
+-99935.0  # bugbranch_int: -99935
+99936.0  # bugbranch_int: 99936
+-99936.0  # bugbranch_int: -99936
+99937.0  # bugbranch_int: 99937
+-99937.0  # bugbranch_int: -99937
+99938.0  # bugbranch_int: 99938
+-99938.0  # bugbranch_int: -99938
+99939.0  # bugbranch_int: 99939
+-99939.0  # bugbranch_int: -99939
+99940.0  # bugbranch_int: 99940
+-99940.0  # bugbranch_int: -99940
+99941.0  # bugbranch_int: 99941
+-99941.0  # bugbranch_int: -99941
+99942.0  # bugbranch_int: 99942
+-99942.0  # bugbranch_int: -99942
+99943.0  # bugbranch_int: 99943
+-99943.0  # bugbranch_int: -99943
+99944.0  # bugbranch_int: 99944
+-99944.0  # bugbranch_int: -99944
+99945.0  # bugbranch_int: 99945
+-99945.0  # bugbranch_int: -99945
+99946.0  # bugbranch_int: 99946
+-99946.0  # bugbranch_int: -99946
+99947.0  # bugbranch_int: 99947
+-99947.0  # bugbranch_int: -99947
+99948.0  # bugbranch_int: 99948
+-99948.0  # bugbranch_int: -99948
+99949.0  # bugbranch_int: 99949
+-99949.0  # bugbranch_int: -99949
+99950.0  # bugbranch_int: 99950
+-99950.0  # bugbranch_int: -99950
+99951.0  # bugbranch_int: 99951
+-99951.0  # bugbranch_int: -99951
+99952.0  # bugbranch_int: 99952
+-99952.0  # bugbranch_int: -99952
+99953.0  # bugbranch_int: 99953
+-99953.0  # bugbranch_int: -99953
+99954.0  # bugbranch_int: 99954
+-99954.0  # bugbranch_int: -99954
+99955.0  # bugbranch_int: 99955
+-99955.0  # bugbranch_int: -99955
+99956.0  # bugbranch_int: 99956
+-99956.0  # bugbranch_int: -99956
+99957.0  # bugbranch_int: 99957
+-99957.0  # bugbranch_int: -99957
+99958.0  # bugbranch_int: 99958
+-99958.0  # bugbranch_int: -99958
+99959.0  # bugbranch_int: 99959
+-99959.0  # bugbranch_int: -99959
+99960.0  # bugbranch_int: 99960
+-99960.0  # bugbranch_int: -99960
+99961.0  # bugbranch_int: 99961
+-99961.0  # bugbranch_int: -99961
+99962.0  # bugbranch_int: 99962
+-99962.0  # bugbranch_int: -99962
+99963.0  # bugbranch_int: 99963
+-99963.0  # bugbranch_int: -99963
+99964.0  # bugbranch_int: 99964
+-99964.0  # bugbranch_int: -99964
+99965.0  # bugbranch_int: 99965
+-99965.0  # bugbranch_int: -99965
+99966.0  # bugbranch_int: 99966
+-99966.0  # bugbranch_int: -99966
+99967.0  # bugbranch_int: 99967
+-99967.0  # bugbranch_int: -99967
+99968.0  # bugbranch_int: 99968
+-99968.0  # bugbranch_int: -99968
+99969.0  # bugbranch_int: 99969
+-99969.0  # bugbranch_int: -99969
+99970.0  # bugbranch_int: 99970
+-99970.0  # bugbranch_int: -99970
+99971.0  # bugbranch_int: 99971
+-99971.0  # bugbranch_int: -99971
+99972.0  # bugbranch_int: 99972
+-99972.0  # bugbranch_int: -99972
+99973.0  # bugbranch_int: 99973
+-99973.0  # bugbranch_int: -99973
+99974.0  # bugbranch_int: 99974
+-99974.0  # bugbranch_int: -99974
+99975.0  # bugbranch_int: 99975
+-99975.0  # bugbranch_int: -99975
+99976.0  # bugbranch_int: 99976
+-99976.0  # bugbranch_int: -99976
+99977.0  # bugbranch_int: 99977
+-99977.0  # bugbranch_int: -99977
+99978.0  # bugbranch_int: 99978
+-99978.0  # bugbranch_int: -99978
+99979.0  # bugbranch_int: 99979
+-99979.0  # bugbranch_int: -99979
+99980.0  # bugbranch_int: 99980
+-99980.0  # bugbranch_int: -99980
+99981.0  # bugbranch_int: 99981
+-99981.0  # bugbranch_int: -99981
+99982.0  # bugbranch_int: 99982
+-99982.0  # bugbranch_int: -99982
+99983.0  # bugbranch_int: 99983
+-99983.0  # bugbranch_int: -99983
+99984.0  # bugbranch_int: 99984
+-99984.0  # bugbranch_int: -99984
+99985.0  # bugbranch_int: 99985
+-99985.0  # bugbranch_int: -99985
+99986.0  # bugbranch_int: 99986
+-99986.0  # bugbranch_int: -99986
+99987.0  # bugbranch_int: 99987
+-99987.0  # bugbranch_int: -99987
+99988.0  # bugbranch_int: 99988
+-99988.0  # bugbranch_int: -99988
+99989.0  # bugbranch_int: 99989
+-99989.0  # bugbranch_int: -99989
+99990.0  # bugbranch_int: 99990
+-99990.0  # bugbranch_int: -99990
+99991.0  # bugbranch_int: 99991
+-99991.0  # bugbranch_int: -99991
+99992.0  # bugbranch_int: 99992
+-99992.0  # bugbranch_int: -99992
+99993.0  # bugbranch_int: 99993
+-99993.0  # bugbranch_int: -99993
+99994.0  # bugbranch_int: 99994
+-99994.0  # bugbranch_int: -99994
+99995.0  # bugbranch_int: 99995
+-99995.0  # bugbranch_int: -99995
+99996.0  # bugbranch_int: 99996
+-99996.0  # bugbranch_int: -99996
+99997.0  # bugbranch_int: 99997
+-99997.0  # bugbranch_int: -99997
+99998.0  # bugbranch_int: 99998
+-99998.0  # bugbranch_int: -99998
+99999.0  # bugbranch_int: 99999
+-99999.0  # bugbranch_int: -99999
+-100000.0  # bugbranch_int: -100000
+999.0  # digit_boundary: 999
+9999.0  # digit_boundary: 9999
+999999.0  # digit_boundary: 999999
+-1.9241883681014655e-17  # random_f32: 0xA3B1799D
+14868.5849609375  # random_f32: 0x46685257
+0.00015672619338147342  # random_f32: 0x392456DE
+-0.01676972396671772  # random_f32: 0xBC8960A9
+6.33809539806274e+26  # random_f32: 0x6C031199
+2.4193101781887934e-34  # random_f32: 0x07A0CA6E
+2.9642387744388543e-05  # random_f32: 0x37F8A88B
+-4.979877198261398e-32  # random_f32: 0x8B8148F6
+5.6933495216071606e-05  # random_f32: 0x386ECBE0
+-3.5238525104597065e-25  # random_f32: 0x96DA1DAC
+-847966016.0  # random_f32: 0xCE4A2BBD
+-2.156751932602674e-08  # random_f32: 0xB2B9437A
+170048324894720.0  # random_f32: 0x571AA876
+5.703899538019724e-15  # random_f32: 0x27CD8130
+47020735725568.0  # random_f32: 0x562B0F79
+1.2290848319872106e-24  # random_f32: 0x17BE3111
+5.025242364775508e-24  # random_f32: 0x18C26797
+-2158481314414592.0  # random_f32: 0xD8F56413
+-5.864260071869649e-23  # random_f32: 0x9A8DCA03
+-1341833088.0  # random_f32: 0xCE9FF57F
+-0.0015846434980630875  # random_f32: 0xBACFB3D0
+-2.3862779604112217e-33  # random_f32: 0x89463E85
+1.3352514067786157e+20  # random_f32: 0x60E7A113
+-6.487608335323823e-31  # random_f32: 0x8D5288F1
+-3.441273826443264e+17  # random_f32: 0xDC98D2C1
+-5.183777186344297e-27  # random_f32: 0x93CD59BF
+-2.0751735974045005e-07  # random_f32: 0xB45ED1F0
+2.2667823448217148e-23  # random_f32: 0x19DB3AD0
+43335.22265625  # random_f32: 0x47294739
+1.0342138999451156e+18  # random_f32: 0x5D65A441
+7.068122538227794e+18  # random_f32: 0x5EC42E08
+-3.983742858213764e-16  # random_f32: 0xA5E5A5AB
+-0.0012821503914892673  # random_f32: 0xBAA80DD4
+9.447812947564402e-14  # random_f32: 0x29D4BEEF
+1.8906996122659376e+20  # random_f32: 0x6123FDF7
+-3.6548586964806165e-30  # random_f32: 0x8E944239
+-1.7724198497770516e-10  # random_f32: 0xAF42E12F
+-21495.111328125  # random_f32: 0xC6A7EE39
+25975316480.0  # random_f32: 0x50C187FC
+1109.331787109375  # random_f32: 0x448AAA9E
+19156875264.0  # random_f32: 0x508EBAD7
+-5.629620254259679e-15  # random_f32: 0xA7CAD415
+3.1350910800436022e+32  # random_f32: 0x757750A9
+414.37396240234375  # random_f32: 0x43CF2FDE
+-6.762348023743004e-26  # random_f32: 0x95A76D79
+2.2562484693971646e+23  # random_f32: 0x663F1C97
+-2.9591905804306324e+38  # random_f32: 0xFF5E9FF0
+-1.7655562470887416e-37  # random_f32: 0x827050A8
+4.829598312735184e-22  # random_f32: 0x1C11F735
+-2.7156515285996066e-19  # random_f32: 0xA0A04DC4
+3.8526350755770876e-29  # random_f32: 0x10435A10
+-1.725483201146402e+38  # random_f32: 0xFF01CF99
+-1.8359358647215826e-34  # random_f32: 0x877409A9
+-6.161951023386791e-05  # random_f32: 0xB88139B9
+-3.254179814981589e-17  # random_f32: 0xA4161293
+9.441984974286338e-22  # random_f32: 0x1C8EAEE9
+6.337503656027645e+28  # random_f32: 0x6F4CC69A
+5.299947718152009e+31  # random_f32: 0x74273CA3
+-2.447746202090811e+25  # random_f32: 0xE9A1FA6F
+-3.796292258397996e-22  # random_f32: 0x9BE578C7
+2.227031942173452e-15  # random_f32: 0x2720797D
+-179.90773010253906  # random_f32: 0xC333E861
+540932931584.0  # random_f32: 0x52FBE43B
+5.934548232438443e-36  # random_f32: 0x04FC6D82
+-8.410525851553683e+27  # random_f32: 0xEDD96831
+1553956736.0  # random_f32: 0x4EB93EFF
+5.230739212571512e-30  # random_f32: 0x0ED42F1A
+-4.6601835699490373e+30  # random_f32: 0xF26B4776
+-566.901611328125  # random_f32: 0xC40DB9B4
+-2.9571262510754633e-31  # random_f32: 0x8CBFEDB0
+6866547712.0  # random_f32: 0x4FCCA39A
+-7.716342035753404e-16  # random_f32: 0xA65E688E
+-3.0075070318465932e-36  # random_f32: 0x847FD9B4
+2.6483672035461228e-20  # random_f32: 0x1EFA2197
+0.0002551362558733672  # random_f32: 0x3985C3CF
+77392315940864.0  # random_f32: 0x568CC69B
+5.344553937902674e-05  # random_f32: 0x38602AB6
+-9.755360757998726e-19  # random_f32: 0xA18FF6B6
+0.001189643982797861  # random_f32: 0x3A9BEDD4
+-1.9041152931535942e+24  # random_f32: 0xE7C99B26
+-1.6332917095111066e+17  # random_f32: 0xDC1110C1
+0.029037082567811012  # random_f32: 0x3CEDDF2D
+-6.896795959852875e-13  # random_f32: 0xAB4220A7
+4.185271755481412e+34  # random_f32: 0x7900F7F9
+-452236.96875  # random_f32: 0xC8DCD19F
+-1544539776.0  # random_f32: 0xCEB81F9D
+1.3875584015110576e-09  # random_f32: 0x30BEB45F
+1.6818220644400885e+28  # random_f32: 0x6E595ED3
+1.158869989274808e+27  # random_f32: 0x6C6FA611
+-0.0012566775549203157  # random_f32: 0xBAA4B71A
+9.197927250537934e-24  # random_f32: 0x1931E9EE
+-3.3905743144943616e+17  # random_f32: 0xDC96925E
+1.3120427131652832  # random_f32: 0x3FA7F104
+8.570024964826592e+30  # random_f32: 0x72D8567D
+6.210739076977849e+26  # random_f32: 0x6C006F61
+52924.09765625  # random_f32: 0x474EBC19
+-1.059670409409146e+27  # random_f32: 0xEC5B227C
+-3.4839252198908223e-31  # random_f32: 0x8CE21EA3
+-36807265746944.0  # random_f32: 0xD605E770
+-1.1693922044600506e+34  # random_f32: 0xF8102383
+-3450243060334592.0  # random_f32: 0xD9441FA5
+2.617724288202228e-13  # random_f32: 0x2A935D62
+4.381819059763858e+36  # random_f32: 0x7C52FA17
+6.445473633694305e-30  # random_f32: 0x0F02BAD0
+1.5262648119819082e+20  # random_f32: 0x610461E3
+-3.929536854322279e+36  # random_f32: 0xFC3D3348
+7.9680910069413295e+31  # random_f32: 0x747B6DBA
+-2.784784373943694e-05  # random_f32: 0xB7E99ACA
+4.462125096905923e-15  # random_f32: 0x27A0C3D7
+32118436.0  # random_f32: 0x4BF50B52
+-1.0276569831301574e+34  # random_f32: 0xF7FD5646
+-1.9770145778852708e-32  # random_f32: 0x8ACD4E10
+-0.9817444682121277  # random_f32: 0xBF7B539B
+4.003061564211137e-30  # random_f32: 0x0EA2622B
+-5.681333098570973e-26  # random_f32: 0x958CA9BA
+1.1408169229437399e-14  # random_f32: 0x284D82E5
+2.6598162561342065e-10  # random_f32: 0x2F923996
+-2.7428884973304097e-24  # random_f32: 0x98543881
+0.01112808845937252  # random_f32: 0x3C365296
+-2.3058636973577215e-24  # random_f32: 0x98326856
+-1.522400875803272e-20  # random_f32: 0x9E8FC965
+-2.0038719066188175e-35  # random_f32: 0x85D51695
+-6.217847861848046e+28  # random_f32: 0xEF48E8D5
+-1.2895220606878866e-05  # random_f32: 0xB758588D
+0.03772531822323799  # random_f32: 0x3D1A85DD
+6.204637128946022e+22  # random_f32: 0x655238A6
+107273744.0  # random_f32: 0x4CCC9BC2
+9.225607915938209e-28  # random_f32: 0x12922F83
+-1.7037639856464278e+38  # random_f32: 0xFF002D4D
+456.3490905761719  # random_f32: 0x43E42CAF
+-3.6223190726474103e+28  # random_f32: 0xEEEA163E
+-2.9587301990373156e+20  # random_f32: 0xE1805081
+-1.7507636239067932e+20  # random_f32: 0xE117DAC3
+5.524202604155896e+18  # random_f32: 0x5E9953D2
+1.2550880202754494e-14  # random_f32: 0x286218B8
+-1.4453421215421258e-07  # random_f32: 0xB41B3143
+-9.407713730215025e-14  # random_f32: 0xA9D3D7C7
+3.0479982230626935e-18  # random_f32: 0x2260E70F
+-9.864755174869001e-31  # random_f32: 0x8DA01097
+5907.60595703125  # random_f32: 0x45B89CD9
+-8.856110349317687e-23  # random_f32: 0x9AD620AB
+-2.162840792152565e-05  # random_f32: 0xB7B56EA7
+1.1998221660316975e+37  # random_f32: 0x7D106C60
+-1356823118479360.0  # random_f32: 0xD89A40C0
+27201.974609375  # random_f32: 0x46D483F3
+2.1339844622383124e-38  # random_f32: 0x00E85ECE
+-3713.112548828125  # random_f32: 0xC56811CD
+143.5004425048828  # random_f32: 0x430F801D
+-0.09438919275999069  # random_f32: 0xBDC14F1F
+1.834604836554777e-37  # random_f32: 0x0279B6A6
+-1.094941802716109e+24  # random_f32: 0xE767DCEA
+-6.617710521930178e-32  # random_f32: 0x8BABCE3B
+-23092384497664.0  # random_f32: 0xD5A804EB
+4.050136476993108e-16  # random_f32: 0x25E97977
+2.7150719851829366e-19  # random_f32: 0x20A04502
+1963094912.0  # random_f32: 0x4EEA04E7
+-2.4207371983126528e+17  # random_f32: 0xDC570131
+-1.8880588435893108e+23  # random_f32: 0xE61FECC0
+4.315456324491217e-23  # random_f32: 0x1A50AEC3
+-1.0884777303983664e+28  # random_f32: 0xEE0CAEB5
+-9.67369296692904e+17  # random_f32: 0xDD56CC94
+-4789416960.0  # random_f32: 0xCF8EBC5A
+-3.792937235670966e+20  # random_f32: 0xE1A47E10
+4.0700188981119963e-35  # random_f32: 0x0658663A
+-1.5625112391320628e+28  # random_f32: 0xEE49F329
+-4740142080.0  # random_f32: 0xCF8D446A
+821.5162963867188  # random_f32: 0x444D610B
+2.8480637798380627e-22  # random_f32: 0x1BAC27A7
+-1.4290642897274405e+19  # random_f32: 0xDF465290
+-1.1527382125825229e+17  # random_f32: 0xDBCCC477
+0.00011511613411130384  # random_f32: 0x38F16A81
+5.436520454850136e+32  # random_f32: 0x75D66ED4
+0.0007465292001143098  # random_f32: 0x3A43B2BA
+3.5063416614633525e-09  # random_f32: 0x3170F437
+2353217404928.0  # random_f32: 0x5408F9AC
+-8.927688758573138e+17  # random_f32: 0xDD463C09
+62652.34375  # random_f32: 0x4774BC58
+-2.3765276021131354e-33  # random_f32: 0x89456F27
+-2.993903470013014e+29  # random_f32: 0xF071D879
+-1.9160739368736052e+34  # random_f32: 0xF86C2CA2
+491.2071838378906  # random_f32: 0x43F59A85
+5.928819671393844e+28  # random_f32: 0x6F3F920C
+13767834624.0  # random_f32: 0x504D281F
+-3.4768445767053917e-37  # random_f32: 0x82EC9F2D
+-3.919669956186402e-27  # random_f32: 0x939B462D
+11.343395233154297  # random_f32: 0x41357E8C
+-9.050681910593994e-07  # random_f32: 0xB572F3D0
+-1.2385443148507647e-12  # random_f32: 0xABAE4F43
+8.539658048430408e+17  # random_f32: 0x5D3D9E56
+-2665736682078208.0  # random_f32: 0xD9178793
+5.305590849179845e+24  # random_f32: 0x688C7015
+2.5399712911904147e-19  # random_f32: 0x2095EEF6
+-4.6465694785050384e+29  # random_f32: 0xF0BBAC67
+-7.473817977069528e+23  # random_f32: 0xE71E43A6
+145805728.0  # random_f32: 0x4D0B0D1A
+2.4431624712518542e-39  # random_f32: 0x001A9A8B
+996054.75  # random_f32: 0x49732D6C
+-4.296223106274328e-15  # random_f32: 0xA79AC9AA
+2.788140859445193e+33  # random_f32: 0x77097749
+7.31700537066763e-26  # random_f32: 0x15B52908
+28435827130368.0  # random_f32: 0x55CEE5DB
+-3.165452003479004  # random_f32: 0xC04A96C4
+-2.6764285232516727e-12  # random_f32: 0xAC3C5640
+2.9124706202310335e-08  # random_f32: 0x32FA2DE8
+3.6250819459309643e-35  # random_f32: 0x0640BE0F
+1.0404813413392709e-27  # random_f32: 0x12A4DEF0
+-1.1424538648441285e-08  # random_f32: 0xB24445A7
+9.537361973708319e+37  # random_f32: 0x7E8F8095
+0.24000436067581177  # random_f32: 0x3E75C3B4
+2.0733672529419827e+27  # random_f32: 0x6CD66193
+-3.5941726290510325e-36  # random_f32: 0x8498E113
+-3035899512225792.0  # random_f32: 0xD92C9227
+1.3860656579720069e+32  # random_f32: 0x74DAAEBF
+-177878768.0  # random_f32: 0xCD29A36F
+-3.096280039068603e-24  # random_f32: 0x986F9025
+-1.3317775727982295e+22  # random_f32: 0xE4347D51
+-3.4005150085745403e-38  # random_f32: 0x81392443
+-1.4894090592644636e-31  # random_f32: 0x8C41561B
+-1.0355592295414452e+23  # random_f32: 0xE5AF6E39
+8.584411022501798e+34  # random_f32: 0x79844388
+-1.0287995175721115e-17  # random_f32: 0xA33DC7AF
+-1.1468338556545245e-35  # random_f32: 0x8573E793
+-2.0547798433503986e-19  # random_f32: 0xA07295E9
+13057.1708984375  # random_f32: 0x464C04AF
+677807.0625  # random_f32: 0x49257AF1
+4579.88720703125  # random_f32: 0x458F1F19
+-9.601537039852295e-33  # random_f32: 0x8A476A87
+1.2819743567839717e-17  # random_f32: 0x236C7B87
+0.002745857462286949  # random_f32: 0x3B33F3D8
+-4.851465451594095e-09  # random_f32: 0xB1A6B1F1
+-4.0211710938820033e-07  # random_f32: 0xB4D7E28E
+4.7588431932361675e-29  # random_f32: 0x10714D51
+4.08829481944177e+24  # random_f32: 0x68586EBA
+-2.2395087847060233e-32  # random_f32: 0x8AE8905B
+7.259007314067362e+25  # random_f32: 0x6A702E2F
+3.446063930525792e+26  # random_f32: 0x6B8E869F
+-8.253534744540048e-09  # random_f32: 0xB20DCB6E
+2.5900518116356522e+20  # random_f32: 0x6160A6B4
+9912505346293760.0  # random_f32: 0x5A0CDD7C
+-7.117063999176025  # random_f32: 0xC0E3BEFD
+5.8465913753025234e-05  # random_f32: 0x3875394C
+4.101195008843206e-05  # random_f32: 0x382C043F
+9.095563076942502e+28  # random_f32: 0x6F92F25E
+1.791798003352499e-34  # random_f32: 0x076E2BBA
+9.033820448891281e-35  # random_f32: 0x06F028FF
+-6.038623612429015e-17  # random_f32: 0xA48B3DBE
+9.019059352677636e+32  # random_f32: 0x7631DE9D
+3.4428506260866496e-31  # random_f32: 0x0CDF742B
+1.625054084558047e+20  # random_f32: 0x610CF373
+2.6131956474273466e-06  # random_f32: 0x362F5E5C
+1478902284288.0  # random_f32: 0x53AC2AB9
+1.64193994433278e+20  # random_f32: 0x610E6A64
+-8555231969280.0  # random_f32: 0xD4F8FD72
+2.5022096297603e-26  # random_f32: 0x14F7CE8D
+-7.288063505730244e-33  # random_f32: 0x8A175DFE
+5312876155764736.0  # random_f32: 0x59970043
+-8.321246909265918e-16  # random_f32: 0xA66FD7F7
+-1.5084677408753826e-15  # random_f32: 0xA6D964A3
+-9.339215278625488  # random_f32: 0xC1156D6D
+-1.218168420183329e+31  # random_f32: 0xF319C125
+1.8114602140750736e-15  # random_f32: 0x2702878B
+1.7619800077386185e-19  # random_f32: 0x20500494
+-8.016877634832442e-13  # random_f32: 0xAB61A7B1
+2.438120100123342e-05  # random_f32: 0x37CC863B
+-3.355938815730042e-08  # random_f32: 0xB31022F0
+-845.7361450195312  # random_f32: 0xC4536F1D
+-101856051200.0  # random_f32: 0xD1BDB8C0
+-2.5144165330236948e+33  # random_f32: 0xF6F7F0CC
+-2.570985208945122e+32  # random_f32: 0xF54AD0A2
+-8.297181921079755e-06  # random_f32: 0xB70B3420
+-2.489559802734136e-19  # random_f32: 0xA092F52A
+-6185.837890625  # random_f32: 0xC5C14EB4
+-224041.09375  # random_f32: 0xC85ACA46
+7.988787054873936e+18  # random_f32: 0x5EDDBBBF
+240712180301824.0  # random_f32: 0x575AED2C
+-4464690713329664.0  # random_f32: 0xD97DC9CD
+-284066971648.0  # random_f32: 0xD284476C
+1.0968022890137688e-22  # random_f32: 0x1B049863
+-6.241256917356777e+32  # random_f32: 0xF5F62C97
+-2854643826688.0  # random_f32: 0xD4262982
+-5.445613169285934e-07  # random_f32: 0xB5122DF8
+7.801671495094786e+28  # random_f32: 0x6F7C15EA
+2.0612656353459878e+36  # random_f32: 0x7BC67E1F
+1452.5614013671875  # random_f32: 0x44B591F7
+-9701987524280320.0  # random_f32: 0xDA09DFA0
+1.417997691695465e-25  # random_f32: 0x162F8A24
+-4.117809320603429e+20  # random_f32: 0xE1B294DE
+1.5384934923451027e+20  # random_f32: 0x6105716B
+1.6316450484532464e-34  # random_f32: 0x0758E201
+-7601411898474496.0  # random_f32: 0xD9D80B8D
+6.414518222142007e-11  # random_f32: 0x2E8D0E87
+3.0619864901382243e-06  # random_f32: 0x364D7C87
+-50001784.0  # random_f32: 0xCC3EBDDE
+176412661121024.0  # random_f32: 0x57207246
+-7.139625143984383e+30  # random_f32: 0xF2B43ABF
+9.48071216673287e-26  # random_f32: 0x15EABB27
+-5.121548383613117e-05  # random_f32: 0xB856D035
+-37.76968765258789  # random_f32: 0xC2171429
+-1.4826503358378318e-09  # random_f32: 0xB0CBC61F
+2.765905352336737e+37  # random_f32: 0x7DA67785
+-8311561.5  # random_f32: 0xCAFDA613
+1.3593191607291184e-24  # random_f32: 0x17D2582E
+8.895012433640659e-05  # random_f32: 0x38BA8ABC
+-2.2259059040408147e-09  # random_f32: 0xB118F68D
+-2.2701731278373392e-26  # random_f32: 0x94E0D3BA
+-3.528361317952034e-34  # random_f32: 0x87EA7FF5
+6003975782400.0  # random_f32: 0x54AEBD1B
+-1.1096786778352907e-07  # random_f32: 0xB3EE4D3B
+3500.46142578125  # random_f32: 0x455AC762
+3.4373648166656494  # random_f32: 0x405BFDC9
+2.9861129124952868e-09  # random_f32: 0x314D3441
+2.0916593457265265e-10  # random_f32: 0x2F65FAFA
+2.5383945848336657e+36  # random_f32: 0x7BF47042
+5.171454819929977e-09  # random_f32: 0x31B1B099
+0.0007184481946751475  # random_f32: 0x3A3C563E
+2.7271329292033464e-11  # random_f32: 0x2DEFE193
+-1.1379682548757207e-33  # random_f32: 0x88BD13D1
+11857.1201171875  # random_f32: 0x4639447B
+-7.638930851265479e+34  # random_f32: 0xF96B648A
+-1.041131020704089e-30  # random_f32: 0x8DA8EEE4
+2.8283698497834632e+37  # random_f32: 0x7DAA39F0
+-1.6901889554754044e+19  # random_f32: 0xDF6A8F93
+-1.5516765931356e-27  # random_f32: 0x92F5DF7B
+1.3824324006707699e+34  # random_f32: 0x782A65E0
+4.81715797859631e+29  # random_f32: 0x70C2903F
+5.146848882730729e-31  # random_f32: 0x0D270659
+2.6540459935879628e+35  # random_f32: 0x7A4C75D4
+-264324448256.0  # random_f32: 0xD2762BDC
+3.512560912089407e+23  # random_f32: 0x6694C343
+1.1421487734340934e-30  # random_f32: 0x0DB95301
+419775424.0  # random_f32: 0x4DC82A1E
+-8.022498209905501e+37  # random_f32: 0xFE716B14
+-357.13134765625  # random_f32: 0xC3B290D0
+-1.8743365043583434e-35  # random_f32: 0x85C7504B
+1.0604877117375195e+30  # random_f32: 0x715629EE
+-2.0161790113738754e+37  # random_f32: 0xFD72B050
+-2.664412568725091e-20  # random_f32: 0x9EFBA58B
+-0.060178954154253006  # random_f32: 0xBD767E35
+1.9929912014049478e-06  # random_f32: 0x3605BF54
+-3.237824098461031e-14  # random_f32: 0xA911D192
+1.004160947101762e-14  # random_f32: 0x2834E4C0
+2.31548509793652e-27  # random_f32: 0x1337739E
+1.6103937751984304e-38  # random_f32: 0x00AF5B3A
+-1.7061929364531493e-24  # random_f32: 0x980402A2
+4717576.0  # random_f32: 0x4A8FF810
+0.002960608573630452  # random_f32: 0x3B4206C5
+-4.676310538798134e-07  # random_f32: 0xB4FB0EB9
+5.938848088856866e+31  # random_f32: 0x743B65A2
+-4.5194284425953413e-10  # random_f32: 0xAFF8754D
+-1.290498650074146e+27  # random_f32: 0xEC856F37
+-4.112945560491966e+28  # random_f32: 0xEF04E57D
+2.0687874428973147e+27  # random_f32: 0x6CD5E859
+-4.476636605604456e-32  # random_f32: 0x8B6870B5
+-3.528240038218127e-16  # random_f32: 0xA5CB63A2
+-5.351488654278243e+24  # random_f32: 0xE88DA719
+-1358066745344.0  # random_f32: 0xD39E198B
+6.308213088040313e-28  # random_f32: 0x1247EA4E
+1854535.625  # random_f32: 0x49E2623D
+9.048055030569912e-20  # random_f32: 0x1FD5A423
+-7.465169593601217e-10  # random_f32: 0xB04D3376
+-3.765956435586304e-08  # random_f32: 0xB321BF21
+-1.0459608057418477e+30  # random_f32: 0xF1533AE8
+7.75483175742635e+37  # random_f32: 0x7E695D0D
+2.376735210418701  # random_f32: 0x40181C6E
+7.276569839780199e-25  # random_f32: 0x176132ED
+-1.8280297882381326e+31  # random_f32: 0xF366BAD4
+-19.354270935058594  # random_f32: 0xC19AD58C
+-1.396980840841298e-15  # random_f32: 0xA6C9537F
+-7.963562718387226e+25  # random_f32: 0xEA83BF00
+-8.730718068533548e-26  # random_f32: 0x95D82980
+7.097671963694178e-25  # random_f32: 0x175BA98D
+2603219138117632.0  # random_f32: 0x5913F9D3
+14547857440768.0  # random_f32: 0x5553B2FE
+-1.0080465108475156e-12  # random_f32: 0xAB8DDEB4
+-8.353965652783923e+16  # random_f32: 0xDB946570
+4089033785344.0  # random_f32: 0x546E035A
+-4.324765878749304e-09  # random_f32: 0xB194990B
+-2.4580940596811352e+30  # random_f32: 0xF1F8343E
+-3.2529972387819524e-31  # random_f32: 0x8CD321B0
+7.589137734532633e+31  # random_f32: 0x746F7891
+17743089664.0  # random_f32: 0x50843242
+416763904000.0  # random_f32: 0x52C21221
+-1.0192727192821511e+37  # random_f32: 0xFCF56188
+-2.2284335708061634e-32  # random_f32: 0x8AE769ED
+3.0614995839665486e+25  # random_f32: 0x69CA97D2
+-20.782339096069336  # random_f32: 0xC1A6423B
+-1.3111001409542727e-19  # random_f32: 0xA01AC992
+-71.3699951171875  # random_f32: 0xC28EBD70
+1.4565222272722167e-07  # random_f32: 0x341C6494
+-2.367484178770794e-31  # random_f32: 0x8C99A894
+-4.873658708768771e+27  # random_f32: 0xED7BF656
+-2.2411576594549842e-08  # random_f32: 0xB2C08394
+3.171717430083748e-20  # random_f32: 0x1F15C7B6
+1.5484448372495886e-14  # random_f32: 0x288B78B5
+-4.060957764294221e-31  # random_f32: 0x8D03C91E
+-6.913271296677485e-31  # random_f32: 0x8D605936
+1.4253264067201945e-24  # random_f32: 0x17DC8EFF
+-2.7468712252924557e+25  # random_f32: 0xE9B5C5CF
+-9300173914112.0  # random_f32: 0xD50755D9
+-1.450273884984199e-05  # random_f32: 0xB77350CA
+3.4028224522648084e+38  # f32_max: -5
+1.1754936501730553e-38  # f32_min_normal: -5
+3.4028226550889045e+38  # f32_max: -4
+1.1754937903029018e-38  # f32_min_normal: -4
+3.4028228579130005e+38  # f32_max: -3
+1.1754939304327482e-38  # f32_min_normal: -3
+3.4028230607370965e+38  # f32_max: -2
+1.1754940705625946e-38  # f32_min_normal: -2
+3.4028232635611926e+38  # f32_max: -1
+3.4028234663852886e+38  # f32_max: +0
+1.175494490952134e-38  # f32_min_normal: +1
+1.1754946310819804e-38  # f32_min_normal: +2
+nan  # f32_max: +3
+1.1754947712118268e-38  # f32_min_normal: +3
+nan  # f32_max: +4
+1.1754949113416732e-38  # f32_min_normal: +4
+nan  # f32_max: +5
+1.1754950514715197e-38  # f32_min_normal: +5

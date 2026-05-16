@@ -1,4 +1,0 @@
-json = {};
-json.items = [];
-json.items[0] = "9000000000";
-json.items[1] = "16000000000000000000";

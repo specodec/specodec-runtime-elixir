@@ -1,6 +1,0 @@
-json = {};
-json.addr = {};
-json.addr.street = "world";
-json.addr.city = "test";
-json.addr.zip = "foo";
-json.coords = [];

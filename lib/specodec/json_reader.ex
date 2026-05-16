@@ -132,8 +132,10 @@ defmodule Specodec.JsonReader do
   defp read_num(state, convert) do
     {s, pos, stack, fe} = skip_comma(state)
     {raw, pos2} = extract_number(s, pos)
-    {f, _} = Float.parse(raw)
-    {convert.(f), {s, pos2, stack, fe}}
+    case Float.parse(raw) do
+      {f, _} -> {convert.(f), {s, pos2, stack, fe}}
+      :error -> {0, {s, pos2, stack, fe}}
+    end
   end
 
   defp extract_number(s, pos) do
@@ -147,7 +149,7 @@ defmodule Specodec.JsonReader do
       consume_digits(s, pos)
     else pos
     end
-    {String.slice(s, start, pos - start), pos}
+    {binary_part(s, start, pos - start), pos}
   end
 
   defp consume_digits(s, pos) do
@@ -208,12 +210,12 @@ defmodule Specodec.JsonReader do
       <<_::binary-size(pos), ?u, hex::binary-size(4), _::binary>> ->
         cp = String.to_integer(hex, 16)
         if cp >= 0xD800 and cp <= 0xDBFF do
-          <<_::binary-size(pos + 6), ?\\, ?u, hex2::binary-size(4), _::binary>> = s
+          <<_::binary-size(pos + 5), ?\\, ?u, hex2::binary-size(4), _::binary>> = s
           low = String.to_integer(hex2, 16)
           cp = 0x10000 + (cp - 0xD800) * 0x400 + (low - 0xDC00)
-          {cp, pos + 12}
+          {cp, pos + 11}
         else
-          {cp, pos + 6}
+          {cp, pos + 5}
         end
     end
   end

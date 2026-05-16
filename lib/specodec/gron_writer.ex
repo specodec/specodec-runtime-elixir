@@ -170,7 +170,6 @@ defmodule Specodec.GronWriter do
       is_nan_f32(value) -> ~s("NaN")
       is_inf_f32(value) -> ~s("Infinity")
       is_neg_inf_f32(value) -> ~s("-Infinity")
-      is_neg_zero_f32(value) -> "-0"
       true -> FloatFmt.ryu_f32_to_string(value)
     end
   end
@@ -183,7 +182,6 @@ defmodule Specodec.GronWriter do
       is_nan_f64(value) -> ~s("NaN")
       is_inf_f64(value) -> ~s("Infinity")
       is_neg_inf_f64(value) -> ~s("-Infinity")
-      is_neg_zero_f64(value) -> "-0"
       true -> FloatFmt.ryu_f64_to_string(value)
     end
   end
@@ -203,11 +201,6 @@ defmodule Specodec.GronWriter do
     bits == 0xFF800000
   end
 
-  defp is_neg_zero_f32(value) do
-    <<bits::32>> = <<value::float-32-big>>
-    bits == 0x80000000
-  end
-
   defp is_nan_f64(value) do
     <<bits::64>> = <<value::float-64-big>>
     (bits &&& 0x7FF0000000000000) == 0x7FF0000000000000 and (bits &&& 0x000FFFFFFFFFFFFF) != 0
@@ -221,10 +214,5 @@ defmodule Specodec.GronWriter do
   defp is_neg_inf_f64(value) do
     <<bits::64>> = <<value::float-64-big>>
     bits == 0xFFF0000000000000
-  end
-
-  defp is_neg_zero_f64(value) do
-    <<bits::64>> = <<value::float-64-big>>
-    bits == 0x8000000000000000
   end
 end
