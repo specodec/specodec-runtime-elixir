@@ -106,4 +106,9 @@ defmodule SpecodecTest.RyuTest do
     assert failed == 0, "#{failed} F64 table coverage failures"
     IO.puts(:stderr, "#{passed}/#{length(pairs)} f64 table coverage")
   end
+
+  test "Ryu total summary" do
+    IO.puts("=== TOTAL: Ryu tests complete (see stderr for details) ===")
+    assert true
+  end
 end
