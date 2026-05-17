@@ -185,11 +185,11 @@ defmodule Specodec.RyuF64 do
     {vr2, vp2, vm2, last_digit, removed, vm_tz, vr_tz} =
       while_cond(vr, vp, vm, vr_tz, vm_tz, last_digit, removed)
 
-    {vr3, vp3, vm3, last_digit, removed} =
+    {vr3, vp3, vm3, last_digit, removed, vr_tz} =
       if vm_tz do
         while_vm_tz(vr2, vp2, vm2, vr_tz, last_digit, removed)
       else
-        {vr2, vp2, vm2, last_digit, removed}
+        {vr2, vp2, vm2, last_digit, removed, vr_tz}
       end
 
     vr_tz_final = vr_tz && last_digit == 5 && rem(vr3, 2) == 0
@@ -221,7 +221,7 @@ defmodule Specodec.RyuF64 do
       vm2 = div(vm, 10)
       while_vm_tz(vr2, vp2, vm2, vr_tz, last_digit, removed + 1)
     else
-      {vr, vp, vm, last_digit, removed}
+      {vr, vp, vm, last_digit, removed, vr_tz}
     end
   end
 
