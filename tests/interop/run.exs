@@ -2,7 +2,7 @@
 # Elixir roundtrip test
 
 # Load JASON dependency (installed by mix)
-jason_ebin = "_build/dev/lib/jason/ebin"
+jason_ebin = "_build/test/lib/jason/ebin"
 if File.dir?(jason_ebin) do
   Code.append_path(jason_ebin)
 end

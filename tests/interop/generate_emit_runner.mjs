@@ -4,7 +4,7 @@ import path from "path";
 import { fileURLToPath } from "url";
 
 const __dir = path.dirname(fileURLToPath(import.meta.url));
-const VEC_DIR = process.env.VEC_DIR || path.join(__dir, ".tests-cache", "vectors");
+const VEC_DIR = process.env.VEC_DIR || path.join(__dir, "vectors");
 
 const manifestPath = path.join(VEC_DIR, "manifest.json");
 const manifest = JSON.parse(fs.readFileSync(manifestPath, "utf-8"));
